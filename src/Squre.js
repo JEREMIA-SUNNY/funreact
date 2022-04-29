@@ -22,7 +22,7 @@ const Squre = () => {
       const values=shapecs.shape
       setShapes2(values)
       setArr((prev) => [...prev, count]);
-      const title = React.createElement('h1', {}, 'My First React Code');
+   
     }
   }
   console.log(arr);
